@@ -38,6 +38,13 @@ Ferramentas em Python para **quebrar cifra de substituição monoalfabética** u
 
 ## 🚀 Como usar
 
+Para baixar este repositório localmente via Git:
+
+```bash
+git clone https://github.com/MatCano/Representa-o-Numerica-e-Criptografia.git
+cd Representa-o-Numerica-e-Criptografia
+```
+
 Execute os comandos a partir da **raiz do repositório**. Garanta que o arquivo `quadgrams` esteja presente.
 
 ### 1) Quebrar a cifra de substituição
